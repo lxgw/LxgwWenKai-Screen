@@ -5,3 +5,6 @@
 
 ![](https://s3.bmp.ovh/imgs/2021/10/abfed7aee8466be0.png)
 *上图为「霞鹜文楷屏幕阅读版」与 GitHub 页面调用的 Segoe UI 字体的搭配效果。*
+
+## 字体下载
+在 [Releases](https://github.com/lxgw/LxgwWenKai-Screen/releases) 界面下载。 
