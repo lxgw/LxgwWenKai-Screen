@@ -19,6 +19,6 @@
 - [「霞鹜文楷」](https://github.com/lxgw/LxgwWenKai)[「霞鹜文楷 GB」](https://github.com/lxgw/LxgwWenKaiGB) 
 采用 [SIL OFL 1.1](OFL.txt) 授权方式。
 - 打底字体 [Roboto v2.138](https://github.com/googlefonts/roboto) 采用 Apache License Version 2.0 授权方式。
-- 等宽打底字体 [Inconsolata](https://github.com/googlefonts/roboto) 采用 SIL OFL 1.1 授权方式。
+- 等宽打底字体 [Inconsolata](https://github.com/googlefonts/inconsolata) 采用 SIL OFL 1.1 授权方式。
 
 根据授权的兼容性与传染性，本项目字体采用 [SIL OFL](OFL.txt) 授权。
