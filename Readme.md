@@ -36,3 +36,9 @@
 - 等宽打底字体 [Inconsolata](https://github.com/googlefonts/inconsolata) 采用 SIL OFL 1.1 授权方式。
 
 根据授权的兼容性与传染性，本项目字体采用 [SIL OFL](OFL.txt) 授权。
+
+## 所用工具
+
+- [otRebuilder](https://github.com/Pal3love/otRebuilder) 用于缩放字体 UPM；
+- [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 用于合并字体文件；
+- ttfname3 用于合并字体信息。
