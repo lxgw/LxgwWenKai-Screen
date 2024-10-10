@@ -10,7 +10,7 @@
 ### 所用工具
 
 - [otRebuilder](https://github.com/Pal3love/otRebuilder) 用于缩放字体 UPM；
-- [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 用于合并字体文件；
+- [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 用于合并打底字体；
 - ttfname3 用于合并字体信息。
 
 ## 字体下载
@@ -36,8 +36,7 @@
 
 ### 字体授权兼容性说明
 
-- [「霞鹜文楷」](https://github.com/lxgw/LxgwWenKai)[「霞鹜文楷 GB」](https://github.com/lxgw/LxgwWenKaiGB) 
-采用 [SIL OFL 1.1](OFL.txt) 授权方式。
+- [「霞鹜文楷」系列字体](https://github.com/lxgw/LxgwWenKai) 采用 [SIL OFL 1.1](OFL.txt) 授权方式。
 - 打底字体 [Roboto v2.138](https://github.com/googlefonts/roboto) 采用 Apache License Version 2.0 授权方式。
 - 等宽打底字体 [Inconsolata](https://github.com/googlefonts/inconsolata) 采用 SIL OFL 1.1 授权方式。
 
