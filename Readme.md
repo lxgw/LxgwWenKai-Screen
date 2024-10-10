@@ -7,6 +7,12 @@
 ![](https://s3.bmp.ovh/imgs/2021/10/abfed7aee8466be0.png)
 上图为「霞鹜文楷屏幕阅读版」与 GitHub 页面调用的 Segoe UI 字体的搭配效果。加粗后的「霞鹜文楷」与 Segoe UI Regular 粗细相当，PC 和 Android 手机屏幕阅读更加舒适。
 
+### 所用工具
+
+- [otRebuilder](https://github.com/Pal3love/otRebuilder) 用于缩放字体 UPM；
+- [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 用于合并字体文件；
+- ttfname3 用于合并字体信息。
+
 ## 字体下载
 在 [Releases](https://github.com/lxgw/LxgwWenKai-Screen/releases) 界面下载 ttf 格式字体文件。 本项目将在 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) Release 更新后一周之内更新。
 
@@ -36,9 +42,3 @@
 - 等宽打底字体 [Inconsolata](https://github.com/googlefonts/inconsolata) 采用 SIL OFL 1.1 授权方式。
 
 根据授权的兼容性与传染性，本项目字体采用 [SIL OFL](OFL.txt) 授权。
-
-## 所用工具
-
-- [otRebuilder](https://github.com/Pal3love/otRebuilder) 用于缩放字体 UPM；
-- [魔兽字体合并补全工具](https://github.com/nowar-fonts/Warcraft-Font-Merger) 用于合并字体文件；
-- ttfname3 用于合并字体信息。
