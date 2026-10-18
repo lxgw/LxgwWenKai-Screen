@@ -1,3 +1,7 @@
+> [!CAUTION]
+> - 本字体在 macOS 上可能会糊成一片，建议 macOS 用户直接使用[《霞鹜文楷》](https://github.com/lxgw/LxgwWenKai) 或[《霞鹜文楷 GB》](https://github.com/lxgw/LxgwWenKaiGB)的 Regular 字重。
+> - 本字体可能随时取消，请勿对本字体产生过度依赖。
+
 # LXGW WenKai Screen / 霞鹜文楷屏幕阅读版
 
 ## 字体介绍
@@ -14,7 +18,7 @@
 - ttfname3 用于合并字体信息。
 
 ## 字体下载
-在 [Releases](https://github.com/lxgw/LxgwWenKai-Screen/releases) 界面下载 ttf 格式字体文件。 ~~本项目将在 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) Release 更新后一周之内更新。~~ 如 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 有值得跟进的大版本更新，则跟进，否则随缘。
+在 [Releases](https://github.com/lxgw/LxgwWenKai-Screen/releases) 界面下载 ttf 格式字体文件。如 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 有值得跟进的大版本更新，则跟进，否则随缘。
 
 ## 授权信息
 
